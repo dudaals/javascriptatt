@@ -1,0 +1,47 @@
+header {
+    text-align: center;
+    background-color: aquamarine;
+    padding: 30px;
+}
+h1  {
+  font-size: 30px;
+  font-weight: bold;
+}
+main {
+    background-color: azure;
+    text-align: center;
+    padding: 30px;
+    margin: 0 auto;
+
+}
+h2 {
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+a{ 
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+li {
+    padding: 10px;
+    margin: 10px auto;
+    background-color: aqua;
+    width: 30%;
+    border-radius: 10px;
+}
+li:hover {
+    width: 33%;
+    background-color: aquamarine;
+
+}
+footer {
+    background-color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
+footer img {
+    width: 100px;
+}
+    
